@@ -18,8 +18,6 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,apple.news
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2.apple.com
 
 PROCESS-NAME,trustd
 PROCESS-NAME,netbiosd
