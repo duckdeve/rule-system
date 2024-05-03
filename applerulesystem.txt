@@ -1,10 +1,9 @@
 #$ System Rule Apple
 #$ meta_description This file contains domains of Apple, Inc.
 
-#=>> Apple
+#Apple
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
@@ -22,12 +21,12 @@ DOMAIN-SUFFIX,apple.news
 ;USER-AGENT,trustd
 USER-AGENT,netbiosd
 
-#=>> Apple Maps
+# Apple Maps
 USER-AGENT,com.apple.geod
 USER-AGENT,mapspushd
 USER-AGENT,com.apple.Maps
 
-#=>> Apple System Services
+# Apple System Services
 DOMAIN api.smoot.apple.com
 DOMAIN captive.apple.com
 DOMAIN xp.apple.com
